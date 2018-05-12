@@ -1,4 +1,4 @@
-# read-list
+# book & movie
 store the books that had been read or ready to read!
 
 ## 2018
